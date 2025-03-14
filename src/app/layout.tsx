@@ -3,7 +3,6 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "../globals.css";
 import "../../lib/bootstrap.min.css";
 import Script from 'next/script'
-import * as d3 from "d3";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
