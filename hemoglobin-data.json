@@ -1,0 +1,15 @@
+{ 
+	"hemoglobin-levels": [
+	  { "level": 0, "saturation": 0 },
+	  { "level": 10, "saturation": 12 },
+	  { "level": 20, "saturation": 35 },
+	  { "level": 30, "saturation": 55 },
+	  { "level": 40, "saturation": 72 },
+	  { "level": 50, "saturation": 85 },
+	  { "level": 60, "saturation": 92 },
+	  { "level": 70, "saturation": 96 },
+	  { "level": 80, "saturation": 98 },
+	  { "level": 90, "saturation": 99 },
+	  { "level": 100, "saturation": 100 }
+	]
+}
