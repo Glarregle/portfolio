@@ -12,9 +12,6 @@ export default function Home() {
               <span className="block w-6 h-0.5 bg-white"></span>
             </button>
           </div>
-          <div className="hidden md:flex space-x-4">
-            <a href="https://udacity.com" className="text-white hover:text-gray-300">Portfolio</a>
-          </div>
         </div>
       </nav>
       <div className="container mx-auto p-4">
